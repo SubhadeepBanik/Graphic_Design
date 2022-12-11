@@ -23,6 +23,6 @@ In This project I use Adobe Photoshop & Illustrator.
 
 <img src="https://github.com/SubhadeepBanik/Graphic_design/blob/main/Graphic_3.jpg" width="600" height="900">
 
-<img src="https://github.com/SubhadeepBanik/Graphic_design/blob/main/Graphic_4.jpg" width="500" height="833">
+<img src="https://github.com/SubhadeepBanik/Graphic_design/blob/main/Graphic_4.jpg" width="600" height="1000">
 
 <img src="https://github.com/SubhadeepBanik/Graphic_design/blob/main/Graphic_1.jpg" width="800" height="400">
