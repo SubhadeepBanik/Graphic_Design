@@ -1,5 +1,5 @@
 
-# Graphics Design
+# Graphics_Design
 
 Those Graphics are Recreated / Illustrated by me for one of my client.
 
